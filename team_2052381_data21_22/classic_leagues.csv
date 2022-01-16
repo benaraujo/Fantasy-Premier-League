@@ -1,10 +1,10 @@
 ,id,name,short_name,created,closed,rank,max_entries,league_type,scoring,admin_entry,start_event,entry_can_leave,entry_can_admin,entry_can_invite,has_cup,cup_league,cup_qualified,entry_rank,entry_last_rank
-0,13,Man Utd,team-13,2021-06-22T10:37:33.112809Z,False,,,s,c,,1,False,False,False,True,2393693.0,True,7755,17388
-1,261,England,region-241,2021-06-22T10:37:38.498997Z,False,,,s,c,,1,False,False,False,True,2393698.0,True,12188,27134
-2,276,Gameweek 1,event-1,2021-06-22T10:37:38.853542Z,False,,,s,c,,1,False,False,False,False,,,39851,88777
-3,314,Overall,overall,2021-06-22T10:37:39.651966Z,False,,,s,c,,1,False,False,False,True,2382391.0,True,39852,88779
+0,13,Man Utd,team-13,2021-06-22T10:37:33.112809Z,False,,,s,c,,1,False,False,False,True,2393693.0,True,14263,7810
+1,261,England,region-241,2021-06-22T10:37:38.498997Z,False,,,s,c,,1,False,False,False,True,2393698.0,True,20855,11612
+2,276,Gameweek 1,event-1,2021-06-22T10:37:38.853542Z,False,,,s,c,,1,False,False,False,False,,,69747,38701
+3,314,Overall,overall,2021-06-22T10:37:39.651966Z,False,,,s,c,,1,False,False,False,True,2382391.0,True,69751,38702
 4,949504,All or Nothing !!!!,,2021-08-10T17:14:29.882255Z,False,,,x,c,4108354.0,1,True,False,False,False,,,1,1
 5,977068,Game onnn,,2021-08-10T22:47:01.834438Z,False,,,x,c,4230159.0,1,True,False,False,False,,,1,1
 6,1096556,Sane Mane Kane league,,2021-08-11T23:10:03.995824Z,False,,,x,c,2101530.0,1,True,False,False,False,,,1,1
-7,1327300,FARFETCH league,,2021-08-13T08:45:39.162488Z,False,,,x,c,741913.0,1,True,False,False,True,,,1,2
+7,1327300,FARFETCH league,,2021-08-13T08:45:39.162488Z,False,,,x,c,741913.0,1,True,False,False,True,,,1,1
 8,1510254,Joshua (the best) Moore,,2021-08-13T15:35:50.400862Z,False,,,x,c,5768239.0,1,True,False,False,True,,,1,1
